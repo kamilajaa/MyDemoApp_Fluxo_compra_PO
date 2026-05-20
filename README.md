@@ -1,5 +1,7 @@
 # MyDemoApp - Testes de Fluxo de Compra 🛒
 
+![Mobile Tests](https://github.com/kamilajaa/MyDemoApp_Fluxo_compra_PO/actions/workflows/mobile-tests.yml/badge.svg)
+
 > Projeto de automação de testes mobile usando WebdriverIO + Appium + Cucumber
 
 ## O que esse projeto faz?
